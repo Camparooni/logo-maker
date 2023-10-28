@@ -40,7 +40,7 @@ function promptUser() {
         // const htmlPageContent = generateHTML(answers);
     
         fs.writeFile('logo.svg', svg.render(), (err) =>
-            err ? console.log(err) : console.log('Successfully created index.html!')
+            err ? console.log(err) : console.log('Successfully created logo.svg!')
         );
     }});
 }
