@@ -4,11 +4,11 @@
 
 ## Description
 
-The purpose of this application is to allow users to easily write and save notes in one place so that they can organize their thoughts and keep track of everything they need. 
+The purpose of this application is to allow users to quickly and easily generate simple logos for their projects, brands or companies in an svg file
 
 ## Usage
 
-To use this application, users can click on *Get Started* on the home page, this will take them to the note taking page where users can input a *Note Title* and *Note Text*. After filling out the Note form, the user can then navigate to the top right corner to *Save Note* which will store the note on the left hand side of the page for the user to easily access later on. If the note is no longer needed, the user can click the red trash can next to the note to delete it. 
+To use this application, clone the project files from [the logo-maker repository](https://github.com/Camparooni/logo-maker) and open the index.js file. Make sure you have node.js downloaded to your computer. In the command line, initiate the program using command `node index.js` and a new file called *logo.svg*  will be generated in your files. You can open this file in the browser to view your newly generated logo!
 
 ### Link
 
@@ -19,10 +19,8 @@ To use this application, users can click on *Get Started* on the home page, this
 
 ## Badges
 
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Static Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
