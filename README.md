@@ -12,7 +12,7 @@ To use this application, clone the project files from [the logo-maker repository
 
 ### Link
 
-[Link to walkthrough video](https://drive.google.com/file/d/1YL5BpGArp4_NM2VluEXW20FqeSl_vQ-j/view)
+View a walkthough [here](https://drive.google.com/file/d/1YL5BpGArp4_NM2VluEXW20FqeSl_vQ-j/view)
 
 ![logo-maker](./image.png)
 
